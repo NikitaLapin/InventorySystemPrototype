@@ -1,0 +1,2 @@
+D:\Programming\UnityGames\Inventory System\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Programming\UnityGames\Inventory System\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
